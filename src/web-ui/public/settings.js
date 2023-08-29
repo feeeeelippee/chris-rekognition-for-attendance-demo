@@ -1,1 +1,1 @@
-window.rekognitionSettings = {"apiGateway":"","cognitoIdentityPool":"","cognitoUserPoolId":"","cognitoUserPoolClientId":"","region":"ap-southeast-1"};
+window.rekognitionSettings = {"apiGateway":"	https://2q3yj49ggi.execute-api.ap-southeast-2.amazonaws.com/Prod/","cognitoIdentityPool":"ap-southeast-2:4250c712-6927-4a8d-b5c5-9c13572cdc9a","cognitoUserPoolId":"ap-southeast-2_s7q5FlvqS","cognitoUserPoolClientId":"5j4a88dun7bo7rfr8g5o1hebf5","region":"ap-southeast-2"};
